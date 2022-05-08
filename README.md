@@ -2,9 +2,9 @@
 
 
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+<h1 align="center">Hello Everybody!<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+Everybody!+I+am+senior+blockchain+developer+software+developer;MERN,+MEAN,FullStackis+my+high+skills...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&lines=I+am+senior+blockchain+developer+Web+developer;MERN,+MEAN,+FullStack+is+my+high+skills...;)](https://git.io/typing-svg)
   
   
   
@@ -133,32 +133,32 @@ I have +4 years of rich and very strong experience in this stack and skills.
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{IllaButenko}/count.svg" alt="IllaButenko :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{IlliaButenko}/count.svg" alt="IlliaButenko :: Visitor's Count" /></p>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
-<a href="https://github.com/IllaButenko">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IllaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IllaButenko&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/IlliaButenko">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=IllaButenko&theme=radical&hide_border=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IllaButenko&show_icons=true&include_all_commits=true&theme=radical" alt="IllaButenko's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllaButenko&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IlliaButenko&show_icons=true&include_all_commits=true&theme=radical" alt="IlliaButenko's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&theme=radical" />
 
 
 
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IllaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
 
 ##  📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/IllaButenko?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/IllaButenko)
+[![Metrics](https://metrics.lecoq.io/IlliaButenko?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/IlliaButenko)
 
 
 <div  align="center">
@@ -169,7 +169,7 @@ I have +4 years of rich and very strong experience in this stack and skills.
 Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82
 </p>
 <p>
-Telegram - <a href="mailto:IllaButenko@outlook.com">Illa_Butenko</a>
+Telegram - <a href="mailto:IlliaButenko@outlook.com">Illa_Butenko</a>
 </p>
 </div>
 </div>
