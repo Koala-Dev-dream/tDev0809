@@ -138,7 +138,7 @@ I have +4 years of rich and very strong experience in this stack and skills.
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
-<div style = "margin: auto;">
+<div style = "margin-left: 20%;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)</div>
 <p align="centre">
