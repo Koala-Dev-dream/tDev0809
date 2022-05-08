@@ -47,7 +47,7 @@ I have +4 years of rich and very strong experience in this stack and skills.
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/IlliaButenko">
-    <img alt="Solidity" src="https://github.com/IlliaButenko/IlliaButenko/raw/main/icons/solidity.png" />
+    <img alt="Solidity" src="https://github.com/charles0831/charles0831/raw/main/icons/solidity.png" />
   </a>
   <a href="https://github.com/IlliaButenko">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -127,26 +127,24 @@ I have +4 years of rich and very strong experience in this stack and skills.
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{IlliaButenko}/count.svg" alt="IlliaButenko :: Visitor's Count" /></p>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{IlliaButenko}/count.svg" alt="IlliaButenko :: Visitor's Count" />
+</p>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
-<a href="https://github.com/IlliaButenko">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+    <a href="https://github.com/IlliaButenko">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)
 </p>
-
-
-
 
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
-
 
 ##  📊 Stats
 
@@ -154,14 +152,14 @@ I have +4 years of rich and very strong experience in this stack and skills.
 
 
 <div  align="center">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<br />
- <div align="left">
-<p>
-Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82
-</p>
-<p>
-TG - <a href="mailto:IlliaButenko@outlook.com">@Illia_Butenko</a>
-</p>
-</div>
+    <h2>
+        <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+        &nbsp;*** Connect with me 
+        <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+    </h2>
+    <br />
+     <div align="left">
+        <p>Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82</p>
+        <p>T G  --  <a href="https://t.me/Illia_Butenko">@Illia_Butenko</a></p>
+    </div>
 </div>
