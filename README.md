@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+software+developer;I+am+blockchain+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+Everybody!+I+am+senior+blockchain+developer+software+developer;MERN,+MEAN,FullStackis+my+high+skills...;)](https://git.io/typing-svg)
   
   
   
@@ -12,213 +12,153 @@
 </h1>
 
 <h2>[BLOCHCHAIN]</h2>
-I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
-I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
-<br>
-   &nbsp; &nbsp;    ✓ Smart Contract Development
-   <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Contract Test and Audit in development environment by using Truffle, Hardhat
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Anti-Bot, Whitelist functions integration for Token, NFT contracts
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Wrap Token Contract development from BTC, NDAU, Doge, etc.
+I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
+projects.<br>
+Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :<br>
+<h2>[Blockchain relevant development]</h2>
+<br>&nbsp; &nbsp; ✓ Smart Contract using ERC20, ERC721, ERC1155, BEP20, SPL(Token, NFT market for)
+<br>&nbsp; &nbsp; ✓ DeFi(Decentralized Finance) DApps such as Lending, Staking, Banking, CEX/DEX
+<br>&nbsp; &nbsp; ✓ Deploy and Testing by Truffle/Hardhat
+<br>&nbsp; &nbsp; ✓ NFT Apps such as minting sites and marketplace based on ETH, BSC and Solana using Solidity and Rust.
+<br>&nbsp; &nbsp; ✓ Web3.js, Web3.py for Blockchain Interactive with Frontend
+<br>&nbsp; &nbsp; ✓ Crypto Trading bot(sniper bot, arbitrage bot, frontrunning bot)
+<br>&nbsp; &nbsp; ✓ Backend with GraphQL on various blockchain networks
+<br>&nbsp; &nbsp; ✓ Wallet connection using web3.js or ether.js
+<br>&nbsp; &nbsp; ✓ NFT minting & staking, marketplace Development
+<br>&nbsp; &nbsp; ✓ Cross-Chain-Bridge Development.
+<br>&nbsp; &nbsp; ✓ Child Token, Bridge Contract development
 
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
-✓ Smart Contract Audits
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Code checking line by line
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - High/Middle/Low level severity Audit test on the testnet, devnet
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Provide audit with functional example
-
-<br>
-    &nbsp; &nbsp; 
-✓ Defi/ DApp Development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Forking Dex tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development)
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Wallet connection using web3.js or ether.js
-
-<br>
-    &nbsp; &nbsp;  
-✓ NFT minting & staking, marketplace Development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- -  P2E (Play to Earn) contract development
-
-<br>
-    &nbsp; &nbsp; 
-✓ Cross-Chain-Bridge Development.
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Child Token, Bridge Contract development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Relay service integration like Moralis, Chainlink, Chainstack
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Well-made Cross-Bridge DApp development using react.js, web3.js, MongoDB
-
-<br>
-    &nbsp; &nbsp;  
- ✓ CEX Development 
- 
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Spot & Margin Trading option, Multi-Chain Support
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money Api integration
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Well-Structured DB Design
-
-<br>
-    &nbsp; &nbsp; 
-
-<h2>[WEB & MOBILE]</h2>  
- I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
-
- <br>
-    &nbsp; &nbsp;    1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
-         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
-    
- <br>
-    &nbsp; &nbsp;     2.  Web service: XML/JSON, REST/SOAP
-  
-<br>
-   &nbsp; &nbsp;       3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
- 
- <br>
-    &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
-   
- <br>
-    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
- 
-  <br>
-     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
-
- <br>
-    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
-    Communication: Twillio, Heroku, Tokbox
-
- <br>
-    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
-  
- <br>
-    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
- 
- <br>
-    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-
- <br>
-    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
-  
- <br>
-    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
- 
-
- <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
+<h2>[WEB && MOBILE]</h2>  
+I have +4 years of rich and very strong experience in this stack and skills.
+<br>&nbsp; &nbsp; ✓ Native: React/React Native, Vue/Nuxt, Angular,Laravel  Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
+<br>&nbsp; &nbsp; ✓ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
+<br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP
+<br>&nbsp; &nbsp; ✓ Cloud backend: Firebase, Amazon S3 EC2 AWS
+<br>&nbsp; &nbsp; ✓ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
+<br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
+<br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+<br>&nbsp; &nbsp; ✓ Github, Gitlab
 
 
 
-### - Languages and Tools...
+<h1 align="center">Languages</h1>
 
+<div>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Solidity" src="https://github.com/IlliaButenko/IlliaButenko/raw/main/icons/solidity.png" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/IlliaButenko">  
+    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
+</div>
+
+<h1 align="center">My Github Status </h1>
 <p align="center">
-
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809)
-  
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/TopDeveloper0809) 
-  
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809)
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809) 
-  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/TopDeveloper0809)
-  [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/TopDeveloper0809) 
-
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=IlliaButenko&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{TopDeveloper0809}/count.svg" alt="TopDeveloper0809 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{IllaButenko}/count.svg" alt="IllaButenko :: Visitor's Count" /></p>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
-<a href="https://github.com/TopDeveloper0809">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TopDeveloper0809&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TopDeveloper0809&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/IllaButenko">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IllaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IllaButenko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=TopDeveloper0809&theme=radical&hide_border=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=IllaButenko&theme=radical&hide_border=true)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopDeveloper0809&show_icons=true&include_all_commits=true&theme=radical" alt="TopDeveloper0809's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopDeveloper0809&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IllaButenko&show_icons=true&include_all_commits=true&theme=radical" alt="IllaButenko's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllaButenko&layout=compact&theme=radical" />
 
 
 
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TopDeveloper0809&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IllaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
 
 ##  📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/TopDeveloper0809?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/TopDeveloper0809)
+[![Metrics](https://metrics.lecoq.io/IllaButenko?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/IllaButenko)
 
 
 <div  align="center">
@@ -229,7 +169,7 @@ I have worked on coding and business start-up projects related to blockchain and
 Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82
 </p>
 <p>
-Telegram - <a href="mailto:TopDeveloper0809@outlook.com">Illa_Butenko</a>
+Telegram - <a href="mailto:IllaButenko@outlook.com">Illa_Butenko</a>
 </p>
 </div>
 </div>
