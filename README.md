@@ -15,7 +15,6 @@
 I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
 projects.<br>
 Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :<br>
-<h2>[Blockchain relevant development]</h2>
 <br>&nbsp; &nbsp; ✓ Smart Contract using ERC20, ERC721, ERC1155, BEP20, SPL(Token, NFT market for)
 <br>&nbsp; &nbsp; ✓ DeFi(Decentralized Finance) DApps such as Lending, Staking, Banking, CEX/DEX
 <br>&nbsp; &nbsp; ✓ Deploy and Testing by Truffle/Hardhat
@@ -162,7 +161,7 @@ I have +4 years of rich and very strong experience in this stack and skills.
 Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82
 </p>
 <p>
-Telegram - <a href="mailto:IlliaButenko@outlook.com">Illa_Butenko</a>
+TG - <a href="mailto:IlliaButenko@outlook.com">@Illia_Butenko</a>
 </p>
 </div>
 </div>
