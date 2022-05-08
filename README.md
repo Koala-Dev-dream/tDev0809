@@ -138,12 +138,11 @@ projects.</b><br>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
-<div>
-    <p align="center">
 
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)
-    </p>
-</div>
+<p align="centre">
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)
+</p>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
