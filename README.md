@@ -140,7 +140,7 @@ I have +4 years of rich and very strong experience in this stack and skills.
 </p>
 <div style = "margin-left: 20%;">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)</div>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
