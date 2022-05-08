@@ -145,8 +145,6 @@ I have +4 years of rich and very strong experience in this stack and skills.
    ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IlliaButenko&show_icons=true&include_all_commits=true&theme=radical" alt="IlliaButenko's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&theme=radical" />
 
 
 
