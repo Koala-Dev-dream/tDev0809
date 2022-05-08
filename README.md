@@ -125,11 +125,6 @@ I have +4 years of rich and very strong experience in this stack and skills.
 </div>
 
 <h1 align="center">My Github Status </h1>
-<p align="center">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=IlliaButenko&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
-</p>
-
-<h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
