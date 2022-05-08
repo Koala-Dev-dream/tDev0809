@@ -137,10 +137,8 @@ I have +4 years of rich and very strong experience in this stack and skills.
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)
 </p>
-
+<div style = "margin: auto;">![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=true)</div>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
