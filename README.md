@@ -12,9 +12,9 @@
 </h1>
 
 <h2>[BLOCHCHAIN]</h2>
-I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
-projects.<br>
-Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :<br>
+<b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
+projects.</b><br>
+<b>Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :</b><br>
 <br>&nbsp; &nbsp; ✓ Smart Contract using ERC20, ERC721, ERC1155, BEP20, SPL(Token, NFT market for)
 <br>&nbsp; &nbsp; ✓ DeFi(Decentralized Finance) DApps such as Lending, Staking, Banking, CEX/DEX
 <br>&nbsp; &nbsp; ✓ Deploy and Testing by Truffle/Hardhat
@@ -28,7 +28,7 @@ Being well versed in backend I also have notable experience and expertise in fro
 <br>&nbsp; &nbsp; ✓ Child Token, Bridge Contract development
 
 <h2>[WEB && MOBILE]</h2>  
-I have +4 years of rich and very strong experience in this stack and skills.
+<b>I have +4 years of rich and very strong experience in this stack and skills.</b><br>
 <br>&nbsp; &nbsp; ✓ Native: React/React Native, Vue/Nuxt, Angular,Laravel  Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
 <br>&nbsp; &nbsp; ✓ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
 <br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP
@@ -138,10 +138,12 @@ I have +4 years of rich and very strong experience in this stack and skills.
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IlliaButenko&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
-<p align="center">
+<div>
+    <p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)
-</p>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)
+    </p>
+</div>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
