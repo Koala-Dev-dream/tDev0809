@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
   
@@ -128,7 +128,7 @@ projects.</b><br>
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=IlliaButenko&style=for-the-badge"/></a>
 </p>
 
-<h4 align="center">GitHub Statistics:</h4>
+>GitHub Statistics
 <p align="center">
     <a href="https://github.com/IlliaButenko">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -136,14 +136,12 @@ projects.</b><br>
     </a>
 </p>
 
-<p align="centre">
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaButenko&theme=radical&hide_border=false&area=true)
-</p>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-</p>
+> GitHub Activity Graph
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
+<br />
 
 ##  📊 Stats
 
