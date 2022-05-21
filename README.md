@@ -1,12 +1,6 @@
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
-
-
-
-<h1 align="center">Hello Everybody!<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&lines=I+am+senior+blockchain+developer+Web+developer;MERN,+MEAN,+FullStack+is+my+high+skills...;)](https://git.io/typing-svg)
-  
-  
+<p align="center">
+  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
   
   
 </h1>
@@ -125,10 +119,13 @@ projects.</b><br>
 
 <h1 align="center">My Github Status </h1>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center">
-    <img src="https://profile-counter.glitch.me/{IlliaButenko}/count.svg" alt="IlliaButenko :: Visitor's Count" />
+<p align="right">
+  <a href="https://github.com/IlliaButenko?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/IlliaButenko"/></a>
+  <a href="https://github.com/IlliaButenko?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/IlliaButenko?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=IlliaButenko&style=for-the-badge"/></a>
 </p>
 
 <h4 align="center">GitHub Statistics:</h4>
