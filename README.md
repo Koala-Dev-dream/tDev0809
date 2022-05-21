@@ -119,15 +119,6 @@ projects.</b><br>
 
 <h1 align="center">My Github Status </h1>
 
-<p align="right">
-  <a href="https://github.com/IlliaButenko?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/IlliaButenko"/></a>
-  <a href="https://github.com/IlliaButenko?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/IlliaButenko?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/IlliaButenko">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=IlliaButenko&style=for-the-badge"/></a>
-</p>
-
 >GitHub Statistics
 <p align="center">
     <a href="https://github.com/IlliaButenko">
@@ -141,6 +132,14 @@ projects.</b><br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
+<p align="right">
+  <a href="https://github.com/IlliaButenko?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/IlliaButenko"/></a>
+  <a href="https://github.com/IlliaButenko?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/IlliaButenko?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/IlliaButenko">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=IlliaButenko&style=for-the-badge"/></a>
+</p>
 <br />
 
 ##  📊 Stats
@@ -156,7 +155,8 @@ projects.</b><br>
     </h2>
     <br />
      <div align="left">
-        <p>Skype - https://join.skype.com/invite/live:.cid.fa09975900f2ca82</p>
-        <p>T G  --  <a href="https://t.me/Illia_Butenko">@Illia_Butenko</a></p>
+        <p>Skype - <a href="https://join.skype.com/invite/live:.cid.fa09975900f2ca82">https://join.skype.com/invite/live:.cid.fa09975900f2ca82</p>
+        <p>T G   - <a href="https://t.me/Illia_Butenko">@Illia_Butenko</a></p>
+        <p>Email - <a>illia.butenko89@gmail.com</a></p>
     </div>
 </div>
