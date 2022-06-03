@@ -152,7 +152,7 @@ projects.</b><br>
     <div>
       <h5>
         <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Gmail.svg" />
-            &nbsp;illia.butenko89@gmail.com
+            illia.butenko89@gmail.com
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Telegram.png" />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Illia_Butenko
