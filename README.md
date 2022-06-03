@@ -154,9 +154,20 @@ projects.</b><br>
         <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
     </h2>
     <br />
-     <div align="left">
-        <p>Skype - <a href="https://join.skype.com/invite/live:.cid.fa09975900f2ca82">https://join.skype.com/invite/live:.cid.fa09975900f2ca82</p>
-        <p>T G   - <a href="https://t.me/Illia_Butenko">@Illia_Butenko</a></p>
-        <p>Email - <a>illia.butenko89@gmail.com</a></p>
-    </div>
+    <div>
+      <h5>
+        <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Gmail.svg" />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illia.butenko89@gmail.com
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Telegram.png" />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Illia_Butenko
+      </h5>
+      <h5>
+        <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Skype.png" />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Githbu.png" />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/IlliaButenko
+      </h5>
+    <div>
 </div>
