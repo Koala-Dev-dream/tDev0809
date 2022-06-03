@@ -148,23 +148,18 @@ projects.</b><br>
 
 
 <div  align="center">
-    <h2>
-        <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-        &nbsp;*** Connect with me 
-        <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-    </h2>
     <br />
     <div>
       <h5>
         <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Gmail.svg" />
-            &nbsp;illia.butenko89@gmail.com
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illia.butenko89@gmail.com
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Telegram.png" />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Illia_Butenko
       </h5>
       <h5>
         <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Skype.png" />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
+          &nbsp;&nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Githbu.png" />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/IlliaButenko
