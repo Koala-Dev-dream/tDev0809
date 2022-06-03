@@ -157,14 +157,14 @@ projects.</b><br>
     <div>
       <h5>
         <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Gmail.svg" />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illia.butenko89@gmail.com
+            &nbsp;&nbsp;&nbsp;&nbsp;illia.butenko89@gmail.com
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Telegram.png" />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Illia_Butenko
       </h5>
       <h5>
         <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Skype.png" />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Githbu.png" />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/IlliaButenko
