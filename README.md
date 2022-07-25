@@ -32,8 +32,6 @@ projects.</b><br>
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
 
-
-
 <h1 align="center">Languages</h1>
 
 <div>
@@ -119,7 +117,8 @@ projects.</b><br>
 
 <h1 align="center">My Github Status </h1>
 
->GitHub Statistics
+> GitHub Statistics
+
 <p align="center">
     <a href="https://github.com/IlliaButenko">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IlliaButenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -130,6 +129,7 @@ projects.</b><br>
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/IlliaButenko/IlliaButenko"><img alt="IlliaButenko's activity graph" src="https://activity-graph.herokuapp.com/graph?username=IlliaButenko&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <p align="right">
@@ -142,32 +142,17 @@ projects.</b><br>
 </p>
 <br />
 
-##  📊 Stats
+## 📊 Stats
 
 [![Metrics](https://metrics.lecoq.io/IlliaButenko?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/IlliaButenko)
 
+## Contact me
 
-<div  align="center">
-    <h2>
-        <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-        &nbsp;*** Connect with me 
-        <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-    </h2>
-    <br />
-    <div>
-      <h5>
-        <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Gmail.svg" />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;illia.butenko89@gmail.com
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Telegram.png" />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Illia_Butenko
-      </h5>
-      <h5>
-        <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Skype.png" />
-          &nbsp;&nbsp;&nbsp;live:.cid.6dfab275eecb3220
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/IlliaButenko/IlliaButenko/blob/main/Githbu.png" />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/IlliaButenko
-      </h5>
-    <div>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.butenko89@gmail.com)
+[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/vb1lIjfgqRjl)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia_Butenko)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593172254792)
+
+<div align="right">
+  <img src="https://count.getloli.com/get/@:alchemist0404?theme=rule34" />
 </div>
