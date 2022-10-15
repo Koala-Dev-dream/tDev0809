@@ -7,12 +7,12 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.butenko89@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/vb1lIjfgqRjl)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia_Butenko)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/963799901332963328)
 
-<!-- [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593172254792) -->
 
 </h1>
 
-<h2>[BLOCHCHAIN]</h2>
+<!-- <h2>[BLOCHCHAIN]</h2>
 <b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
 projects.</b><br>
 <b>Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :</b><br>
@@ -37,7 +37,7 @@ projects.</b><br>
 <br>&nbsp; &nbsp; ✓ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
 <br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-<br>&nbsp; &nbsp; ✓ Github, Gitlab
+<br>&nbsp; &nbsp; ✓ Github, Gitlab -->
 
 <h1 align="center">Languages</h1>
 
@@ -137,7 +137,7 @@ projects.</b><br>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/tDev0809/tDev0809"><img alt="tDev0809's activity graph" src="https://activity-graph.herokuapp.com/graph?username=tDev0809&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- <a href="https://github.com/tDev0809/tDev0809"><img alt="tDev0809's activity graph" src="https://activity-graph.herokuapp.com/graph?username=tDev0809&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
 
 <p align="right">
   <a href="https://github.com/tDev0809?tab=repositories&sort=stargazers">
